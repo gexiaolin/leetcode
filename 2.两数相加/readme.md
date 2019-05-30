@@ -24,11 +24,11 @@
  * @return {ListNode}
  */
 var addTwoNumbers = function(l1, l2) {
-    let cur1 = l1,
-        cur2 = l2,
-        carry = 0,
-        l3,
-        cur3;
+    let cur1 = l1, // 链表一的位置
+        cur2 = l2, // 链表二的位置
+        carry = 0, // 是否有升位
+        l3, // 相加之后的链表三
+        cur3; // 链表三的位置
     while (cur1 || cur2 || carry) {
         let num1 = 0, num2 = 0;
         if (cur1) {

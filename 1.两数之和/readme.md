@@ -2,6 +2,7 @@
 
 + 题目地址：[leetcode](https://leetcode-cn.com/problems/two-sum/submissions/)
 + 题目难度：easy
++ 数据结构：[哈希表](https://baike.baidu.com/item/%E5%93%88%E5%B8%8C%E8%A1%A8)
 
 ## 思路1
 

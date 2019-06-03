@@ -41,3 +41,9 @@ var reverse = function(x) {
     }
 };
 ```
+
+## 性能
+
+执行用时 : 96 ms, 在Reverse Integer的JavaScript提交中击败了98.36% 的用户
+
+内存消耗 : 35.7 MB, 在Reverse Integer的JavaScript提交中击败了58.85% 的用户

@@ -61,6 +61,6 @@ var isPalindrome = function(x) {
 
 ## 性能2
 
-执行用时 : 296 ms, 在Palindrome Number的JavaScript提交中击败了98.54% 的用户
+Runtime: 144 ms, faster than 99.96% of JavaScript online submissions for Palindrome Number.
 
-内存消耗 : 45 MB, 在Palindrome Number的JavaScript提交中击败了89.10% 的用户
+Memory Usage: 44.6 MB, less than 99.42% of JavaScript online submissions for Palindrome Number.

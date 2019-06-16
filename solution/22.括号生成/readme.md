@@ -1,5 +1,8 @@
 # 22.括号生成
 
++ 题目地址：[leetcode](https://leetcode-cn.com/problems/generate-parentheses/)
++ 题目难度：medium
+
 ## 思路
 
 首先考虑起始和闭合括号的插入规则。在一个符合规则的插入过程中，当前指针位置及之前所有的的起始括号数量一定是要大于等于闭合括号，否则该字串不符合有效括号的规则。

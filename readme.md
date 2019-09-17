@@ -9,6 +9,7 @@
 + [1. 两数之和](https://github.com/hinapudao/leetcode/tree/master/solution/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C) `easy`
 + [2. 两数相加](https://github.com/hinapudao/leetcode/tree/master/solution/2.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0) `medium`
 + [3. 无重复字符的最长子串](https://github.com/hinapudao/leetcode/tree/master/solution/3.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2) `medium`
++ [5. 最长回文子串](https://github.com/hinapudao/leetcode/tree/master/solution/5.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2)`medium`
 + [6. Z字形变换](https://github.com/hinapudao/leetcode/tree/master/solution/6.Z%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2) `medium`
 + [7. 整数反转](https://github.com/hinapudao/leetcode/tree/master/solution/7.%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC) `easy`
 + [8. 字符串转换整数(atoi)](https://github.com/hinapudao/leetcode/tree/master/solution/8.%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0(atoi)) `medium`

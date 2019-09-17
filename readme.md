@@ -25,5 +25,6 @@
 + [26. 删除排序数组中的重复项](https://github.com/hinapudao/leetcode/tree/master/solution/26.%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9) `easy`
 + [27. 移除元素](https://github.com/hinapudao/leetcode/tree/master/solution/27.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0) `easy`
 + [28. 实现strStr()](https://github.com/hinapudao/leetcode/tree/master/solution/28.%E5%AE%9E%E7%8E%B0strStr()) `easy`
++ [38. 报数](https://github.com/hinapudao/leetcode/tree/master/solution/38.%E6%8A%A5%E6%95%B0)`easy`
 + [203. 移除链表元素](https://github.com/hinapudao/leetcode/tree/master/solution/203.%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0) `easy`
 + [237. 删除链表中的节点](https://github.com/hinapudao/leetcode/tree/master/solution/237.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9) `easy`

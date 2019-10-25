@@ -2,7 +2,7 @@
 
 本项目使用`JavaScript`解答leetcode题目。
 
-解题进度：**28 / 1050**
+解题进度：**29 / 1050**
 
 ## 目录
 
@@ -29,6 +29,7 @@
 + [28. 实现strStr()](https://github.com/hinapudao/leetcode/tree/master/solution/28.%E5%AE%9E%E7%8E%B0strStr()) `easy`
 + [35. 搜索插入位置](https://github.com/hinapudao/leetcode/tree/master/solution/35.%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE) `easy`
 + [38. 报数](https://github.com/hinapudao/leetcode/tree/master/solution/38.%E6%8A%A5%E6%95%B0) `easy`
++ [53. 最大子序和](https://github.com/hinapudao/leetcode/tree/master/solution/53.最大子序和) `easy`
 + [66. 加一](https://github.com/hinapudao/leetcode/tree/master/solution/66.%E5%8A%A0%E4%B8%80) `easy`
 + [67. 二进制求和](https://github.com/hinapudao/leetcode/tree/master/solution/67.%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C) `easy`
 + [203. 移除链表元素](https://github.com/hinapudao/leetcode/tree/master/solution/203.%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0) `easy`

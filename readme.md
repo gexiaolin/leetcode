@@ -2,7 +2,7 @@
 
 本项目使用`JavaScript`解答leetcode题目。
 
-解题进度：**31 / 1050**
+解题进度：**32 / 1050**
 
 ## 目录
 
@@ -34,6 +34,7 @@
 + [58. 最后一个单词的长度](https://github.com/hinapudao/leetcode/tree/master/solution/58.最后一个单词的长度) `easy`
 + [66. 加一](https://github.com/hinapudao/leetcode/tree/master/solution/66.%E5%8A%A0%E4%B8%80) `easy`
 + [67. 二进制求和](https://github.com/hinapudao/leetcode/tree/master/solution/67.%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C) `easy`
++ [70. 爬楼梯](https://github.com/hinapudao/leetcode/tree/master/solution/70.爬楼梯) `easy`
 + [203. 移除链表元素](https://github.com/hinapudao/leetcode/tree/master/solution/203.%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0) `easy`
 + [237. 删除链表中的节点](https://github.com/hinapudao/leetcode/tree/master/solution/237.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9) `easy`
 + [989. 数组形式的整数加法](https://github.com/hinapudao/leetcode/tree/master/solution/989.%E6%95%B0%E7%BB%84%E5%BD%A2%E5%BC%8F%E7%9A%84%E6%95%B4%E6%95%B0%E5%8A%A0%E6%B3%95) `easy`

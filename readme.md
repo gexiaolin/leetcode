@@ -2,7 +2,7 @@
 
 本项目使用`JavaScript`解答leetcode题目。
 
-解题进度：**34 / 1050**
+解题进度：**35 / 1050**
 
 ## 目录
 
@@ -34,6 +34,7 @@
 + [58. 最后一个单词的长度](https://github.com/hinapudao/leetcode/tree/master/solution/58.最后一个单词的长度) `easy`
 + [62. 不同路径](https://github.com/hinapudao/leetcode/tree/master/solution/62.不同路径) `medium`
 + [63. 不同路径 II](https://github.com/hinapudao/leetcode/tree/master/solution/63.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II) `medium`
++ [64. 最小路径和](https://github.com/hinapudao/leetcode/tree/master/solution/64.最小路径和) `medium`
 + [66. 加一](https://github.com/hinapudao/leetcode/tree/master/solution/66.%E5%8A%A0%E4%B8%80) `easy`
 + [67. 二进制求和](https://github.com/hinapudao/leetcode/tree/master/solution/67.%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C) `easy`
 + [70. 爬楼梯](https://github.com/hinapudao/leetcode/tree/master/solution/70.爬楼梯) `easy`

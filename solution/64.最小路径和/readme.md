@@ -1,4 +1,4 @@
-# 65. 最小路径和
+# 64. 最小路径和
 
 + 题目地址：[leetcode](https://leetcode-cn.com/problems/minimum-path-sum/)
 + 题目难度：medium

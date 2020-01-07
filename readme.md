@@ -33,7 +33,7 @@
 + [53. 最大子序和](https://github.com/hinapudao/leetcode/tree/master/solution/53.最大子序和) `easy`
 + [58. 最后一个单词的长度](https://github.com/hinapudao/leetcode/tree/master/solution/58.最后一个单词的长度) `easy`
 + [62. 不同路径](https://github.com/hinapudao/leetcode/tree/master/solution/62.不同路径) `medium`
-+ [63. 不同路径 II](https://github.com/hinapudao/leetcode/tree/master/solution/63.不同路径 II) `medium`
++ [63. 不同路径 II](https://github.com/hinapudao/leetcode/tree/master/solution/63.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II) `medium`
 + [66. 加一](https://github.com/hinapudao/leetcode/tree/master/solution/66.%E5%8A%A0%E4%B8%80) `easy`
 + [67. 二进制求和](https://github.com/hinapudao/leetcode/tree/master/solution/67.%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C) `easy`
 + [70. 爬楼梯](https://github.com/hinapudao/leetcode/tree/master/solution/70.爬楼梯) `easy`

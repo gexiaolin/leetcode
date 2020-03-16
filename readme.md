@@ -39,6 +39,7 @@
 + [67. 二进制求和](https://github.com/hinapudao/leetcode/tree/master/solution/67.%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C) `easy`
 + [70. 爬楼梯](https://github.com/hinapudao/leetcode/tree/master/solution/70.爬楼梯) `easy`
 + [91. 解码方法](https://github.com/hinapudao/leetcode/tree/master/solution/91.解码方法) `medium`
++ [96. 不同的二叉搜索树](https://github.com/hinapudao/leetcode/tree/master/solution/96.不同的二叉搜索树) `medium`
 + [120. 三角形最小路径和](https://github.com/hinapudao/leetcode/tree/master/solution/120.三角形最小路径和) `medium`
 + [121. 买卖股票的最佳时机](https://github.com/hinapudao/leetcode/tree/master/solution/121.买卖股票的最佳时机) `easy`
 + [203. 移除链表元素](https://github.com/hinapudao/leetcode/tree/master/solution/203.%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0) `easy`
